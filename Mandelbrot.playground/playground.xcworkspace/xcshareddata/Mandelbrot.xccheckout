@@ -10,14 +10,14 @@
 	<string>Mandelbrot</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>43790FB6F51735B092C4E5B46F44F94DA24A7AC5</key>
+		<key>2DCAE3696721E5F3A61C68CA90B183A6CF102D0E</key>
 		<string>https://github.com/paribro/SwiftMandelbrot.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Mandelbrot.playground</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>43790FB6F51735B092C4E5B46F44F94DA24A7AC5</key>
+		<key>2DCAE3696721E5F3A61C68CA90B183A6CF102D0E</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>43790FB6F51735B092C4E5B46F44F94DA24A7AC5</string>
+	<string>2DCAE3696721E5F3A61C68CA90B183A6CF102D0E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>43790FB6F51735B092C4E5B46F44F94DA24A7AC5</string>
+			<string>2DCAE3696721E5F3A61C68CA90B183A6CF102D0E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SwiftMandelbrot</string>
 		</dict>
